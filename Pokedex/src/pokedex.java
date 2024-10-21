@@ -70,7 +70,7 @@ public class pokedex extends JPanel implements ActionListener, KeyListener {
 
     public void scanfiles() {
         // Creating the fileReader Object 
-        reading fileReader = new reading("C:\\Users\\conno\\OneDrive\\Desktop\\Pokedex\\src\\pokemondata.txt");  
+        reading fileReader = new reading("Pokedex\\src\\pokemondata.txt");  
         stringArray = fileReader.toStringArray();  // Store the array in the instance variable
         System.out.println(stringArray[position]);
     }
