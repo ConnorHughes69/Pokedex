@@ -1,0 +1,99 @@
+Bulbasaur#0001
+Bulbasaur
+Grass · Poison
+Ivysaur#0002
+Ivysaur
+Grass · Poison
+Venusaur#0003
+Venusaur
+Grass · Poison
+Charmander#0004
+Charmander
+Fire
+Charmeleon#0005
+Charmeleon
+Fire
+Charizard#0006
+Charizard
+Fire · Flying
+Squirtle#0007
+Squirtle
+Water
+Wartortle#0008
+Wartortle
+Water
+Blastoise#0009
+Blastoise
+Water
+Caterpie#0010
+Caterpie
+Bug
+Metapod#0011
+Metapod
+Bug
+Butterfree#0012
+Butterfree
+Bug · Flying
+Weedle#0013
+Weedle
+Bug · Poison
+Kakuna#0014
+Kakuna
+Bug · Poison
+Beedrill#0015
+Beedrill
+Bug · Poison
+Pidgey#0016
+Pidgey
+Normal · Flying
+Pidgeotto#0017
+Pidgeotto
+Normal · Flying
+Pidgeot#0018
+Pidgeot
+Normal · Flying
+Rattata#0019
+Rattata
+Normal
+Raticate#0020
+Raticate
+Normal
+Spearow#0021
+Spearow
+Normal · Flying
+Fearow#0022
+Fearow
+Normal · Flying
+Ekans#0023
+Ekans
+Poison
+Arbok#0024
+Arbok
+Poison
+Pikachu#0025
+Pikachu
+Electric
+Raichu#0026
+Raichu
+Electric
+Sandshrew#0027
+Sandshrew
+Ground
+Sandslash#0028
+Sandslash
+Ground
+Nidoran♀#0029
+Nidoran♀
+Poison
+Nidorina#0030
+Nidorina
+Poison
+Nidoqueen#0031
+Nidoqueen
+Poison · Ground
+Nidoran♂#0032
+Nidoran♂
+Poison
+Nidorino#0033
+Nidorino
+Poison
